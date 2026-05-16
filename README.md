@@ -1,6 +1,6 @@
 🚖 **Smart Mobility & Digital Ecosystem**
 
-A multi-service platform integrating ride-hailing, mobility operations, energy infrastructure, fintech systems, telecom services, and reward-based engagement using internal coin.
+A multi-service mobility platform integrating ride-hailing, driver operations, fintech systems, telecom services, reward-based engagement (internal coin) and external energy infrastructure partners (EV & CNG Stations) into a unified digital ecosystem.
 
 🌐 **Overview**
 
@@ -10,7 +10,7 @@ It combines:
 
 - Ride-hailing services
 - Driver operations and earnings system
-- EV and CNG energy infrastructure
+- External EV and CNG stations integration 
 - Wallet and cryptocurrency payments
 - Telecom services (airtime & data)
 - Reward system powered by Internal coin
